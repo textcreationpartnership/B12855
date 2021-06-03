@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for reliefe of the poore, and remedying the high prices of corne.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12855</idno><idno type="EEBO-CITATION">99891152</idno>
+  <idno type="VID">188166</idno>
+  <idno type="EEBO-PROQUEST">2240920470</idno>
+  
+            <idno type="STC">STC 8697</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[12]</idno>
+            <idno type="STC">ESTC S100910</idno>
+            <idno type="PROQUEST">ocm99891152</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891152e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188166)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for reliefe of the poore, and remedying the high prices of corne.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>M.DC.XXII. [1622]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Requiring observance of "Orders appointed by his Majestie for preventing dearth of graine" (STC 9242.5).</note>
+                  <note>Caption title.</note>
+                  <note>Dated at end: ... Whitehall, the two and twentieth day of December, in the twentieth yeere of our reigne ... .</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Steele  notation: 1) of Countries, 2) po- that. Arms 14 (with the initials IR).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Great Britain. --  Sovereign (1603-1625 : James I) --  Miscellaneous Documents. 1622.</term>
+               <term type="topical_term">Public welfare --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Grain trade --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188166:1"/>
+            <head>❧ By the King.
+<figure>
+                  <figDesc>Royal blazon or coat of arms.</figDesc>
+               </figure>
+            </head>
+            <head type="sub">❧ A Proclamation for reliefe of the poore, and remedying the high prices of Corne.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE Kings most Excellent Maiestie, hauing taken knowledge of</hi> the present scarcity and dearth, and of the high prices of Corne and graine throughout all parts of this Kingdome, hath beene pleased by his Procla<g ref="char:EOLhyphen"/>mation lately published, to restraine the residence of the Lords Spirituall and Temporall, and of the Knights, and Gentlemen of quality, in, and neere the Cities of <hi>London</hi> and <hi>Westminster,</hi> and other Cities and Townes, and to returne them vnto their owne houses &amp; habitations in their seuerall Countries, that all partes of the Kingdome might finde the fruites, and feele the comfort of their hospitality and good gouernment: wherein, as His Maiestie is well pleased with the dutifull obedience of great numbers, that according to His Royall command, haue left the Cities of <hi>London</hi> and <hi>Westminster,</hi> and the parts adiacent; So His Highnesse hath great cause to con<g ref="char:EOLhyphen"/>demne the obstinacy of all such, as in a time of such generall conformity, and against so many good examples, shall shew themselues refractorie to that His Royall pleasure, grounded vpon important reasons of Iustice and State. And therefore His Maiestie doeth eftsoones admonish them spee<g ref="char:EOLhyphen"/>dily to submit themselues to that His Royall Proclamation, or else to expect the seuerity of His iustice for their wilfull contempt. And this His Maiestie declares to be extended, aswell vnto such as haue repayred, or shall repayre from their ordinary dwellings in the Countrey, vnto other Cities and Townes, as vnto the Cities of <hi>London</hi> and <hi>Westminster,</hi> and aswell vnto Widdowes, as men of qua<g ref="char:EOLhyphen"/>lity and estate, and to be continued, not only during the time of <hi>Christmasse</hi> now instant, but in that, and in all other times and seasons of this and other yeeres, vntill His Maiestie declare His pleasure other<g ref="char:EOLhyphen"/>wise, His Maiestie intending to continue this course heereafter, for the generall good of His people: Yet allowing that Liberty which alwayes hath beene in Termes, and otherwise, to repayre to <hi>Lon<g ref="char:EOLhyphen"/>don</hi> about their necessary occasions, but not to remooue their wiues and families from their ordinary habitations in the Countrey: An innouation and abuse lately crept in, and growne frequent.</p>
+            <p>And although His Maiestie is perswaded that by this way of reuiuing the laudable and ancient housekeeping of this Realme, the poore, and such as are most pinched in times of scarcity and want, will be much releeued and comforted; yet that nothing may be omitted that may tend to their succour and helpe, His Highnesse in His gracious and Princely care and prouidence, hath caused certaine po<g ref="char:EOLhyphen"/>litique &amp; good orders, heeretofore made vpon like occasion, to be reuiued &amp; published, intituled, <hi>Orders appointed by His Maiestie, &amp;c.</hi> By which the Iustices of Peace in all partes of the Realme are directed to stay all Ingrossers, Forestallers and regrators of Corne, and to direct all owners and Farmers, hauing Corne to spare, to furnish the markets rateably and weekely, with such quantities as reason<g ref="char:EOLhyphen"/>ably they may and ought to doe: and some one or more of them to be present in the Market, according to the Orders, and to see diuers other Articles obserued and performed, tending to the preuention and remedy of this inconuenience. Neuerthelesse, because His Maiestie doth well know, that the life of these his gracious, godly, and politique constitutions dependeth vpon the carefull and diligent execution of the same; His Highnesse doth therefore by this His Proclamation straitely charge and command, all Sheriffes, Iustices of Peace, Maiors, Bayliffes, and other His Officers and Sub<g ref="char:EOLhyphen"/>iects whatsoeuer, That they take knowledge of the sayd Orders, and obserue, and cause the same to bee obserued, as shall appertaine vnto them; And that they vse all possible endeauours, by execution of the aforesaid Orders, and of the good and wholsome Lawes in that behalfe, and by all other good meanes, that the Markets may be supplied with plenty of corne, and at reasonable prizes, and the poore set on worke and releeued, His Maiestie declaring, that (amongst other seruices which hee expe<g ref="char:EOLhyphen"/>cteth from those persons of quality, who either before were, or vpon this, and his late Proclamation shall reside in the Country) this before remembred is one of especiall importance: And withall, his Maiestie hauing thus carefully prouided for releefe of his poore sort of Subiectes, doeth declare and strictly charge and command, that if any vnder pretence of pouerty and want, shall leaue their ordi<g ref="char:EOLhyphen"/>nary labour, or assemble together in vnfit maner, or otherwise insolently behaue themselues, that they be corrected and punished according to their demerits.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Whitehall,</hi>
+                  <date>
+                     <hi>the two and twentieth day of December, in the twentieth yeere of Our Reigne of England, France, and Ireland, and of Scotland the sixe and fiftieth.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie. M.DC.XXII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
